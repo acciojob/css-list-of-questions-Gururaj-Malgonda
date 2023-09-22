@@ -1,5 +1,8 @@
 
 /* Your CSS Code here. */
+ol{
+	list-style-type:lower-roman;
+}
 .questions{
 	background-color:#f8fffe;
 	height:50px;
